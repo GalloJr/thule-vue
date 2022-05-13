@@ -1,6 +1,7 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mineda/vue-project)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/GalloJr/thule-vue)
 
-# Projeto em branco para Vue.js 2
+# Projeto para aula Lab V em Vue.js
+É preciso alterar a URL base do back-end no arquivo "main.js". O projeto com o back-end se encontra em: https://github.com/GalloJr/spring-boot-app-thule
 
 ## Project setup
 ```
